@@ -123,14 +123,14 @@
     </div>
     <div class="container-fluid" >
         <div class="row">
-            <div class="col-lg-4 col-md-4 col-12 bg-light">
+            <div class="col-lg-6 col-md-6 col-12 bg-light">
                 <h3 align="center" class="py-3">Accenture</h3>
                 <h5>School : Adarsh Vidya Mandir</h5>
                 <h5>Board :  Maharashtra State Board</h5>
                 <h5>Passing year : 2010</h5>
                 <h5>Percentage : 94% </h5>
             </div>
-            <div class="col-lg-4 col-md-4 col-12 bg-light">
+            <div class="col-lg-6 col-md-6 col-12 bg-light">
                 <h3 align="center" class="py-3">Bharat Electronic Ltd.</h3>
                 <h5>College : B. N. Bandodkar College, Thane </h5>
                 <h5>Board :  Maharashtra State Board</h5>
