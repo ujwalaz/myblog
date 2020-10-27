@@ -83,7 +83,7 @@
             <p>Hi, I am Ujwala,software engineer ( by my choice and passion :P ). I am from Badlapur, Maharashtra. I have completed
                 my Bachelor of Engineering in Computers from K. J. Somaiya Institute of Engineering,Mumbai. I love to solve problems with my development
                 skills. Check More :
-            <a href="Eductaion.php">Education</a>,<a href="Experience.php">Experience </a>,<a href="Skills.php">Skills </a></p>
+            <a href="#Eductaion">Education</a>,<a href="#Experience">Experience </a>,<a href="Skills.php">Skills </a></p>
         </div>
     </div>
     </div>
