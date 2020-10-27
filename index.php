@@ -125,17 +125,16 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-12 bg-light">
                 <h3 align="center" class="py-3">Accenture</h3>
-                <h5>School : Adarsh Vidya Mandir</h5>
-                <h5>Board :  Maharashtra State Board</h5>
-                <h5>Passing year : 2010</h5>
-                <h5>Percentage : 94% </h5>
+                <h5>From : August,2016 </h5>
+                <h5>To :  July,2018 </h5>
+                <h5>Description : </h5><p></p>
             </div>
             <div class="col-lg-6 col-md-6 col-12 bg-light">
                 <h3 align="center" class="py-3">Bharat Electronic Ltd.</h3>
-                <h5>College : B. N. Bandodkar College, Thane </h5>
-                <h5>Board :  Maharashtra State Board</h5>
-                <h5>Passing year : 2012</h5>
-                <h5>Percentage : 86.85% </h5>
+                <h5>From : July,2018 </h5>
+                <h5>To :  Oct,2020 </h5>
+                <h5>Description : </h5><p></p>
+                
             </div>
             </div>
         </div>
